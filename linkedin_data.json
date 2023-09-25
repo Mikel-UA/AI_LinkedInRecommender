@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "https://www.linkedin.com/in/mikel-uranga-ahijado/",
+        "skills": ["Python", "Machine Learning", "Keras"]
+    },
+    {
+        "user_id": "https://www.linkedin.com/in/mikel-uranga-ahijado2/",
+        "skills": ["Python", "Data Science", "TensorFlow"]
+    },
+    {
+        "user_id": "https://www.linkedin.com/in/mikel-uranga-ahijado3/",
+        "skills": ["R", "Data Analysis", "Statistics"]
+    }
+]
